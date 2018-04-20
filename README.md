@@ -1,1 +1,1 @@
-# Pluralsight---HTML5
+# Pluralsight HTML5
