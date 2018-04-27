@@ -29,4 +29,6 @@ let someData = (function() {
 +function() { doSomthing() }();
 -function() { doSomthing() }();
 ~function() { doSomthing() }();
+
+## LocalStorage & SessionStorage
 `
