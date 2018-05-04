@@ -6,7 +6,7 @@
 
 ## IIFE (Immediately-invoked Function Expression)
 
-`
+```javascript
 let someData = (function() {
   
   let m = {
@@ -29,6 +29,7 @@ let someData = (function() {
 +function() { doSomthing() }();
 -function() { doSomthing() }();
 ~function() { doSomthing() }();
+```
 
 ## LocalStorage & SessionStorage
-`
+
