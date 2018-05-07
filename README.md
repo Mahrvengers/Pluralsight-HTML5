@@ -46,6 +46,8 @@ Those two storage methods can store up to 5 MB of string data in a key value sto
 The biggest advantage to cookies is that this information stays local to the client and is not send with every mouse click to the server.
 This way you can store bigger amounts of data that stay within the browser.
 
+Whilest LocalStorage and SessionStorage are constrained in size there are methods like LZString to make a bit more out of it. 
+
 ## IndexedDB
 
 IndexedDB is a Key-Value store, similar to the localStorage and sessionStorage. It does not have a constrained size and is available on many browsers and mobile devices. 
